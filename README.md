@@ -1,12 +1,100 @@
-![header](./assests/header.svg)
-<picture>
-  <img alt="My Skills" align="center" src="https://skillicons.dev/icons?i=vscode,git,md,docker,linux,bash,windows,powershell,regex,obsidian,postman,mysql,mongodb,redis,cloudflare,nginx&perline=8&theme=light" />
-</picture>
-
-![slgon](./assests/slgon.svg)
+<div align = "center">
+  <picture >
+    <img alt="header" src="./assests/header.svg" />
+  </picture>
+  <p>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark">
+      <img alt="VS Code" src="https://skillicons.dev/icons?i=vscode&theme=light">
+    </picture>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark">
+      <img alt="GIT" src="https://skillicons.dev/icons?i=vscode&theme=light">
+    </picture>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=md&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=md&theme=dark">
+      <img alt="MarkDown" src="https://skillicons.dev/icons?i=md&theme=light">
+    </picture>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark">
+      <img alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=light">
+    </picture>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&theme=dark">
+      <img alt="Linux" src="https://skillicons.dev/icons?i=linux&theme=light">
+    </picture>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash&theme=dark">
+      <img alt="Bash" src="https://skillicons.dev/icons?i=bash&theme=light">
+    </picture>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=windows&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=windows&theme=dark">
+      <img alt="Windows" src="https://skillicons.dev/icons?i=windows&theme=light">
+    </picture>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=powershell&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=powershell&theme=dark">
+      <img alt="PowerShell" src="https://skillicons.dev/icons?i=powershell&theme=light">
+    </picture>
+  </p>
+  <br>
+   <p>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=obsidian&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=obsidian&theme=dark">
+      <img alt="obsidian" src="https://skillicons.dev/icons?i=obsidian&theme=light">
+    </picture>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postman&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman&theme=dark">
+      <img alt="postman" src="https://skillicons.dev/icons?i=postman&theme=light">
+    </picture>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark">
+      <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=light">
+    </picture>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb&theme=dark">
+      <img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb&theme=light">
+    </picture>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=redis&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis&theme=dark">
+      <img alt="Redis" src="https://skillicons.dev/icons?i=redis&theme=light">
+    </picture>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nginx&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nginx&theme=dark">
+      <img alt="Nginx" src="https://skillicons.dev/icons?i=nginx&theme=light">
+    </picture>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=regex&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=regex&theme=dark">
+      <img alt="Regex" src="https://skillicons.dev/icons?i=regex&theme=light">
+    </picture>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cloudflare&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cloudflare&theme=dark">
+      <img alt="Cloudflare" src="https://skillicons.dev/icons?i=cloudflare&theme=light">
+    </picture>
+  </p>
+  <picture >
+    <img alt="slgon" src="./assests/slgon.svg" />
+  </picture>
+</div>
 
 <table>
-<tr><td>
+  <tr>
+    <td>
 
 ### 🤺 简介 Profile
 
@@ -17,23 +105,30 @@
 <div>&nbsp;</div>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-</td><tr>
-<tr><td>
-
+<div>&nbsp;</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      
 ### 📊 数据统计 Statistics
-<picture align="center">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Akimio521&locale=cn&show_icons=true&hide_border=true&title_color=112d4e&text_color=3f72af&icon_color=dbe2ef&bg_color=f9f7f7">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Akimio521&locale=cn&show_icons=true&hide_border=true&title_color=d9faff&text_color=00bbf0&icon_color=005792&bg_color=00204a">
-    <img  alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=Akimio521&locale=cn&show_icons=true&hide_border=true&title_color=112d4e&text_color=3f72af&icon_color=dbe2ef&bg_color=f9f7f7">
+<p align = "center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Akimio521&locale=cn&show_icons=true&hide_border=true&line_height=30&title_color=112d4e&text_color=3f72af&icon_color=dbe2ef&bg_color=f9f7f7">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Akimio521&locale=cn&show_icons=true&hide_border=true&line_height=30&title_color=d9faff&text_color=00bbf0&icon_color=005792&bg_color=00204a">
+    <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=Akimio521&locale=cn&show_icons=true&hide_border=true&line_height=30&title_color=112d4e&text_color=3f72af&icon_color=dbe2ef&bg_color=f9f7f7">
   </picture>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Akimio521)
-
-
-
-<picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Akimio521&row=2&column=3&no-bg=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Akimio521&row=2&column=3&no-bg=true&theme=nord">
+    <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Akimio521&row=2&column=3&no-bg=true">
+  </picture>
+</p>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akimio521/Akimio521/snake_animation/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akimio521/Akimio521/snake_animation/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Akimio521/Akimio521/snake_animation/github-contribution-grid-snake.svg">
 </picture>
+    </td>
+  </tr>
 </table>
