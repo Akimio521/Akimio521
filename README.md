@@ -95,11 +95,9 @@
 <table>
   <tr>
     <td>
-
-### 🤺 简介 Profile
-
+      
+### 🏆 简介 Profile
 <img align="right" width=100em src="https://avatars.githubusercontent.com/u/77880495" />
-
 <p>&emsp;&emsp;嗨~ 你好，我是秋澪AKimio，一名在读大学生。</p>
 <p>&emsp;&emsp;热爱编程计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <div>&nbsp;</div>
@@ -108,10 +106,32 @@
 <div>&nbsp;</div>
     </td>
   </tr>
+  
   <tr>
     <td>
       
-### 📊 数据统计 Statistics
+### 🔥 热门仓库 Host Repositories
+
+<p align = "center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akimio521&repo=AutoFilm">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akimio521&repo=AutoFilm&theme=dark">
+    <img height="150" alt="AutoFilm" src="https://github-readme-stats.vercel.app/api/pin/?Akimio521=anuraghazra&repo=AutoFilm">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akimio521&repo=MediaWarp">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akimio521&repo=MediaWarp&theme=dark">
+    <img height="150" alt="AutoFilm" src="https://github-readme-stats.vercel.app/api/pin/?username=Akimio521&repo=MediaWarp">
+  </picture>
+</p>
+    </td>
+  </tr>
+      
+
+  <tr>  
+    <td>
+  
+### 📋 数据统计 Statistics
 <p align = "center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Akimio521&locale=cn&show_icons=true&hide_border=true&line_height=30&title_color=112d4e&text_color=3f72af&icon_color=dbe2ef&bg_color=f9f7f7">
