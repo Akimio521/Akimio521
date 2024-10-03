@@ -114,14 +114,14 @@
 
 <p align = "center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akimio521&repo=AutoFilm">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akimio521&repo=AutoFilm&theme=dark">
-    <img height="150" alt="AutoFilm" src="https://github-readme-stats.vercel.app/api/pin/?Akimio521=anuraghazra&repo=AutoFilm">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akimio521&repo=AutoFilm&show_owner=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akimio521&repo=AutoFilm&show_owner=true&theme=dark">
+    <img  alt="AutoFilm" src="https://github-readme-stats.vercel.app/api/pin/?Akimio521=anuraghazra&show_owner=true&repo=AutoFilm">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akimio521&repo=MediaWarp">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akimio521&repo=MediaWarp&theme=dark">
-    <img height="150" alt="AutoFilm" src="https://github-readme-stats.vercel.app/api/pin/?username=Akimio521&repo=MediaWarp">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akimio521&repo=MediaWarp&show_owner=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akimio521&repo=MediaWarp&show_owner=true&theme=dark">
+    <img alt="AutoFilm" src="https://github-readme-stats.vercel.app/api/pin/?username=Akimio521&show_owner=true&repo=MediaWarp">
   </picture>
 </p>
     </td>
