@@ -1,11 +1,10 @@
 ![header](./assests/header.svg)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,md,docker,linux,bash,powershell,regex" />
-    <img src="https://skillicons.dev/icons?i=golang,matlab,python,fastapi,pytorch,opencv,ros"/>
-    <img src="https://skillicons.dev/icons?i=obsidian,postman,mysql,mongodb,redis,cloudflare,nginx"/>
-  </a>
-</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,git,md,docker,linux,bash,windows,powershell,regex,obsidian,postman,mysql,mongodb,redis,cloudflare,nginx&perline=8&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,git,md,docker,linux,bash,windows,powershell,regex,obsidian,postman,mysql,mongodb,redis,cloudflare,nginx&perline=8&theme=light">
+  <img alt="My Skills" src="https://skillicons.dev/icons?i=vscode,git,md,docker,linux,bash,windows,powershell,regex,obsidian,postman,mysql,mongodb,redis,cloudflare,nginx&perline=8&theme=light">
+</picture>
 
 ![slgon](./assests/slgon.svg)
 
